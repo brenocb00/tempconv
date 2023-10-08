@@ -1,0 +1,11 @@
+{
+  "name": "tempconvnode",
+  "version": "1.0.0",
+  "description": "Conversor de temperatura em Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "node ./main.js"
+  },
+  "author": "Breno Campos Barbosa",
+  "license": "ISC"
+}
